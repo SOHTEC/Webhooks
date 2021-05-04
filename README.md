@@ -5,8 +5,6 @@ Webhooks disparados quando algumas ações são feitas no sistema.
 
 **Modelos de JSONs enviados para cada ação feita no sistema.**
 
-Com a **chave(key)** do cliente fornecida pela SOHTEC siga os passos abaixo.
-
 **Proposta enviada**
 ```javascript {.line-numbers}
 {
