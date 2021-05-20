@@ -41,7 +41,8 @@ Webhooks disparados quando algumas ações são feitas no sistema.
    "nome":"Fulano",
    "email":"fulano@email.com.br",
    "telefone":"51995486882",
-   "codigoImovel":"0002"
+   "codigoImovel":"0002",
+   "corretorCodigo":""
 }
 ```
 
