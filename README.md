@@ -15,7 +15,9 @@ Webhooks disparados quando algumas ações são feitas no sistema.
    "propostaAceita":true,
    "valorAtual":"1.250,00",
    "valorNovo":"22,00",
-   "tipoWebhook":"PROPOSTA"
+   "tipoWebhook":"PROPOSTA",
+   "corretorCodigo":"",
+   "observacoes":""
 }
 ```
 
