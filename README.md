@@ -8,16 +8,23 @@ Webhooks disparados quando algumas ações são feitas no sistema.
 **Proposta enviada**
 ```javascript {.line-numbers}
 {
-   "nome":"Fulano",
-   "email":"fulano@email.com.br",
-   "telefone":"",
-   "codigoImovel":"0002",
-   "propostaAceita":true,
-   "valorAtual":"1.250,00",
-   "valorNovo":"22,00",
-   "tipoWebhook":"PROPOSTA",
-   "corretorCodigo":"",
-   "observacoes":""
+    "nome": "",
+    "email": "",
+    "telefone": "",
+    "proprietarios": [
+        {
+            "nome": "",
+            "email": "",
+            "telefone": ""
+        }
+    ],
+    "codigoImovel": "",
+    "valorAtual": "",
+    "valorNovo": "",
+    "tipoWebhook": "",
+    "quemFezAcao": "",
+    "corretorCodigo": "",
+    "acao": ""
 }
 ```
 
