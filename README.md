@@ -8,6 +8,7 @@ Webhooks disparados quando algumas ações são feitas no sistema.
 **Proposta enviada**
 ```javascript {.line-numbers}
 {
+    "garantia": "",
     "nome": "",
     "email": "",
     "telefone": "",
