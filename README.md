@@ -64,7 +64,7 @@ Webhooks disparados quando algumas ações são feitas no sistema.
         "iptu":"",
         "condominio":"",
         "proprietarios":[],       
-   }
+   },
    "corretorCodigo":"",
    "interesse":"",   
 }
