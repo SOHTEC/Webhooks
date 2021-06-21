@@ -50,7 +50,23 @@ Webhooks disparados quando algumas ações são feitas no sistema.
    "email":"fulano@email.com.br",
    "telefone":"51995486882",
    "codigoImovel":"0002",
-   "corretorCodigo":""
+   "imovel":{
+        "endereco":"",
+        "numero":"",
+        "complemento":"",
+        "cidade":"",
+        "estado":"",
+        "cep":"",
+        "foto":"",
+        "dormitorios":"",
+        "garagem":"",
+        "valor":"",
+        "iptu":"",
+        "condominio":"",
+        "proprietarios":[],       
+   }
+   "corretorCodigo":"",
+   "interesse":"",   
 }
 ```
 
