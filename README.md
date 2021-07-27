@@ -66,7 +66,8 @@ Webhooks disparados quando algumas ações são feitas no sistema.
         "proprietarios":[],       
    },
    "corretorCodigo":"",
-   "interesse":"",   
+   "interesse":"", 
+   "origem":""
 }
 ```
 
