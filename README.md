@@ -22,7 +22,7 @@ Webhooks disparados quando algumas ações são feitas no sistema.
     "codigoImovel": "",
     "valorAtual": "",
     "valorNovo": "",
-    "tipoWebhook": "",
+    "tipoWebhook": "PROPOSTA",
     "quemFezAcao": "",
     "corretorCodigo": "",
     "acao": ""
@@ -46,10 +46,10 @@ Webhooks disparados quando algumas ações são feitas no sistema.
 **Novo Lead**
 ```javascript {.line-numbers}
 {
-   "nome":"Fulano",
-   "email":"fulano@email.com.br",
-   "telefone":"51995486882",
-   "codigoImovel":"0002",
+   "nome":"",
+   "email":"",
+   "telefone":"",
+   "codigoImovel":"",
    "imovel":{
         "endereco":"",
         "numero":"",
@@ -67,7 +67,8 @@ Webhooks disparados quando algumas ações são feitas no sistema.
    },
    "corretorCodigo":"",
    "interesse":"", 
-   "origem":""
+   "origem":"",
+   "tipoWebhook":"WEBHOOK_LEADS"
 }
 ```
 
