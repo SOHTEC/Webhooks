@@ -25,7 +25,13 @@ Webhooks disparados quando algumas ações são feitas no sistema.
     "tipoWebhook": "PROPOSTA",
     "quemFezAcao": "",
     "corretorCodigo": "",
-    "acao": ""
+    "acao": "",
+    "camposCustomizados":[
+        {
+            "label": "",
+            "valor": ""            
+        }
+    ]
 }
 ```
 
