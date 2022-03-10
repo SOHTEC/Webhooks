@@ -2,6 +2,7 @@
 Webhooks disparados quando algumas ações são feitas no sistema.
 
 **Observação:** Informe a SOHTEC o EndPoint que irá receber os POSTs do sistema.
+- Lembrese que a SOHTEC espera sempre receber StatusCode = 200 ou 201 como sucesso, qualquer código diferente será considerado um erro e o sistema irá tentar enviar 5 vezes, depois disso ele irá ignorar o novo lead.
 
 **Modelos de JSONs enviados para cada ação feita no sistema.**
 
